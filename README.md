@@ -1,7 +1,7 @@
 # Hospitality-Dashboard
 
 ![image alt](https://github.com/Sayan7-db/Hospitality-Dashboard/blob/ce5a52c8f6540d8f3c9ab49b8bd2b6ba5def1ace/Screenshot%202025-07-10%20235238.png)
-# Note : This dasboard shows the inequality between the private and public Hospitals
+# Note : This dasboard shows the inequality between the private and public Hospitals in INDIA
 
 # this data i extract from microdata. gov. 
 
